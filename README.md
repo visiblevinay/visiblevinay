@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay-Sharma</h1>
+<h1 align="center">Hi 👋, I'm Vinay Sharma</h1>
 <h3 align="center">A passionate React.js frontend developer from India 🇮🇳</h3>
 
 ---
