@@ -10,7 +10,26 @@ A passionate React.js frontend developer from India 🇮🇳
   -🌐 [Live Demo](https://expense-tracker-six-weld-74.vercel.app) 
   - 📂 [Source Code](https://github.com/visiblevinay/expense-tracker)
 
-  - 🧰 [Mini UI Components Library](https://github.com/visiblevinay/ui-components)
+## 🔥 Featured Projects
+
+1. 🌤️ Weather Forecast App
+A modern weather forecast app built in React with beautiful **glassmorphism UI**.
+It shows real-time weather info, air quality,
+rain prediction,
+and supports autocomplete city suggestions.
+
+- 📍 **Search** any city
+- 🌡️ Temperature, Min/Max, Humidity
+- 🌬️ Air Quality Index (AQI) & PM levels
+- ⚡ Fast & responsive with stylish icons
+- ✨ Glass effect UI for a clean look
+
+🔗 [Screenshot](<img src="https://github.com/visiblevinay/weather-app/blob/main/preview.png" alt="Weather App Preview" width="100%"/>
+)  
+📂 [Source Code](https://github.com/visiblevinay/weather-app)
+
+
+- 🧰 [Mini UI Components Library](https://github.com/visiblevinay/ui-components)
 
   
 - 💬 Ask me about **React, JavaScript, TailwindCSS**  
