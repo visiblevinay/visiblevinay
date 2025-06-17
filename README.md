@@ -16,6 +16,7 @@ A passionate React.js frontend developer from India 🇮🇳
 
 A simple and beautiful weather app built using React.js and OpenWeatherMap API.
 🔗 [Screenshot](https://github.com/visiblevinay/Reactjs-Weather-App/blob/main/preview.png?raw=true)
+
 📂 [Source Code](https://github.com/visiblevinay/weather-app)
 
 ## 🚀 Features
