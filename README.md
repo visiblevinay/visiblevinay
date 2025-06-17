@@ -51,16 +51,20 @@ A beautiful weather app built using React.js and OpenWeatherMap API.
 
 ---
 
+
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visiblevinay&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=visiblevinay&theme=radical" width="45%" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visiblevinay&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" width="47%" alt="Vinay's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visiblevinay&layout=compact&theme=radical" width="60%" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=visiblevinay&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" alt="Vinay's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visiblevinay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" alt="Top Languages" />
+</div>
 
 ---
 
