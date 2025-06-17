@@ -5,34 +5,39 @@ A passionate React.js frontend developer from India 🇮🇳
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **advanced React patterns & APIs**  
-## 🔨 Current Projects:
-  - 🧾 [Expense Tracker App]
-  -🌐 [Live Demo](https://expense-tracker-six-weld-74.vercel.app) 
-  - 📂 [Source Code](https://github.com/visiblevinay/expense-tracker)
+- 💬 Ask me about **React, JavaScript, TailwindCSS**  
+- ⚡ Fun fact: I love solving real-life problems with clean UI ✨  
+- 🖌️ Also skilled in **Photoshop** for UI design, banners, and mockups
+
+---
+
+## 🔨 Current Projects
+
+### 🧾 Expense Tracker App  
+Track daily expenses with modern charts and UI.  
+🌐 [Live Demo](https://expense-tracker-six-weld-74.vercel.app)  
+📂 [Source Code](https://github.com/visiblevinay/expense-tracker)
+
+---
 
 ## 🔥 Featured Projects
 
-1. 🌦️ React Weather App
-
-A simple and beautiful weather app built using React.js and OpenWeatherMap API.
-
-🔗 [Screenshot](https://github.com/visiblevinay/Reactjs-Weather-App/blob/main/preview.png?raw=true)
-
-📂 [Source Code](https://github.com/visiblevinay/weather-app)
-
-## 🚀 Features
+### 🌦️ React Weather App  
+A beautiful weather app built using React.js and OpenWeatherMap API.  
+✅ Features:
 - Live weather by city
 - Air Quality info
 - Modern UI with glass effect
 - Autocomplete city search
 
+🔗 [Screenshot](https://github.com/visiblevinay/Reactjs-Weather-App/blob/main/preview.png?raw=true)  
+📂 [Source Code](https://github.com/visiblevinay/weather-app)
 
-- 🧰 [Mini UI Components Library](https://github.com/visiblevinay/ui-components)
+---
 
-  
-- 💬 Ask me about **React, JavaScript, TailwindCSS**  
-- ⚡ Fun fact: I love solving real-life problems with clean UI ✨  
-- 🖌️ Also skilled in **Photoshop** for UI design, banners, and mockups
+### 🧰 Mini UI Components Library  
+Collection of minimal reusable UI components built with React + TailwindCSS  
+📂 [Source Code](https://github.com/visiblevinay/ui-components)
 
 ---
 
