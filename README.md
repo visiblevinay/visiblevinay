@@ -12,20 +12,18 @@ A passionate React.js frontend developer from India 🇮🇳
 
 ## 🔥 Featured Projects
 
-1. 🌤️ Weather Forecast App
-A modern weather forecast app built in React with beautiful **glassmorphism UI**.
-It shows real-time weather info, air quality,
-rain prediction,
-and supports autocomplete city suggestions.
+1. 🌦️ React Weather App
 
-- 📍 **Search** any city
-- 🌡️ Temperature, Min/Max, Humidity
-- 🌬️ Air Quality Index (AQI) & PM levels
-- ⚡ Fast & responsive with stylish icons
-- ✨ Glass effect UI for a clean look
+A simple and beautiful weather app built using React.js and OpenWeatherMap API.
 
-🔗 [Screenshot](preview.png)
+![Screenshot](https://github.com/visiblevinay/Reactjs-Weather-App/blob/main/preview.png?raw=true)
 📂 [Source Code](https://github.com/visiblevinay/weather-app)
+
+## 🚀 Features
+- Live weather by city
+- Air Quality info
+- Modern UI with glass effect
+- Autocomplete city search
 
 
 - 🧰 [Mini UI Components Library](https://github.com/visiblevinay/ui-components)
