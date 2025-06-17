@@ -55,9 +55,12 @@ Collection of minimal reusable UI components built with React + TailwindCSS
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visiblevinay&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=visiblevinay&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=visiblevinay&show_icons=true&theme=radical" alt="Vinay's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visiblevinay&theme=radical" alt="Vinay's GitHub streak" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visiblevinay&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
 
 ---
 
