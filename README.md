@@ -24,8 +24,7 @@ and supports autocomplete city suggestions.
 - ⚡ Fast & responsive with stylish icons
 - ✨ Glass effect UI for a clean look
 
-🔗 [Screenshot](<img src="https://github.com/visiblevinay/weather-app/blob/main/preview.png" alt="Weather App Preview" width="100%"/>
-)  
+🔗 [Screenshot](preview.png)
 📂 [Source Code](https://github.com/visiblevinay/weather-app)
 
 
