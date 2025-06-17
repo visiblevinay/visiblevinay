@@ -7,7 +7,7 @@ A passionate React.js frontend developer from India 🇮🇳
 - 🌱 Currently learning **advanced React patterns & APIs**  
 ## 🔨 Current Projects:
   - 🧾 [Expense Tracker App]
-  - 🌐 [Live Demo](expense-tracker-six-weld-74.vercel.app)  
+  -🌐 [Live Demo](https://expense-tracker-six-weld-74.vercel.app) 
   - 📂 [Source Code](https://github.com/visiblevinay/expense-tracker)
 
   - 🧰 [Mini UI Components Library](https://github.com/visiblevinay/ui-components)
